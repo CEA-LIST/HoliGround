@@ -1,0 +1,13 @@
+data:
+  scene_graphs: data/gqa/scene_graphs/val_sceneGraphs.jsonl
+  scene_graphs_key: image_id
+
+  questions: 
+    - data/gqa/questions/balanced/val_balanced_questions.jsonl
+  questions_key: question_id
+
+output:
+  annotations: output/val_balanced
+
+normalize_bbox: true
+round_to_decimal_places: 2
