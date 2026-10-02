@@ -1,6 +1,11 @@
 # HoliGround: Holistic Assessment for Grounded Chain-of-Thought
 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2026W/MAR/papers/Hodemon_HoliGround_Holistic_Assessment_for_Grounded_Chain-of-Thought_CVPRW_2026_paper.pdf) | [**Dataset**](https://huggingface.co/datasets/tomhodemon/HoliGround)
+<div align="center">
+    
+#### Multimodal Algorithmic Reasoning (MAR) @ CVPR 2026
+### [**Paper**](https://openaccess.thecvf.com/content/CVPR2026W/MAR/papers/Hodemon_HoliGround_Holistic_Assessment_for_Grounded_Chain-of-Thought_CVPRW_2026_paper.pdf) &nbsp;&nbsp;|&nbsp;&nbsp; [**Dataset (HuggingFace)**](https://huggingface.co/datasets/tomhodemon/HoliGround)
+
+</div>
 
 ## Abstract
 
